@@ -1,7 +1,8 @@
 # Calculator
 
-A new Flutter project.
+
 ![Screenshot 2023-07-10 024504](https://github.com/Dibs07/Simple-Calculator-App-in-Flutter/assets/131288310/9d3967ea-cf97-4f42-a3e2-4e925c2ce2f3)
+A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
